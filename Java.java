@@ -12,7 +12,7 @@ public class Java {
        System.out.print("Hello world code in java ");
     
     
-       a= X.nextInt(); // value = scnr.next()
+       a  = X.nextInt(); // value = scnr.next()
    
 System.out.print("SO ban nhap la "+a);
 
